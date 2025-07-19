@@ -1,0 +1,21 @@
+date,amount,description,category
+2024-06-01,35.50,Uber ride,Transport
+2024-06-02,12.00,Starbucks coffee,Food
+2024-06-02,100.00,Groceries at Walmart,Groceries
+2024-06-03,55.75,Electricity bill,Utilities
+2024-06-04,20.00,Lunch at Subway,Food
+2024-06-05,150.00,Monthly rent,Housing
+2024-06-05,8.99,Spotify subscription,Entertainment
+2024-06-06,45.00,Gas refill,Transport
+2024-06-07,30.00,Dinner with friends,Food
+2024-06-08,60.00,Internet bill,Utilities
+2024-06-09,90.00,Shopping at Target,Shopping
+2024-06-10,25.00,Book purchase,Education
+2024-06-11,75.00,Doctor visit,Health
+2024-06-12,18.00,Movie ticket,Entertainment
+2024-06-13,40.00,Taxi to airport,Transport
+2024-06-14,110.00,Groceries at Costco,Groceries
+2024-06-15,7.50,Ice cream,Food
+2024-06-16,12.99,Netflix subscription,Entertainment
+2024-06-17,35.00,Pharmacy,Health
+2024-06-18,200.00,Monthly rent,Housing
