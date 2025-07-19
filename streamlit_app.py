@@ -10,7 +10,7 @@ expense_categorizer = load_expense_categorizer()
 forecaster = load_forecaster()
 budget_predictor = load_budget_predictor()
 
-st.set_page_config(page_title="AI Finance Assistant", layout="wide")
+st.set_page_config(page_title="!EXPENSE BUDDY !", layout="wide")
 st.title("AI Finance Assistant")
 st.markdown("""
 Welcome to your AI-powered finance assistant!  
@@ -69,7 +69,7 @@ elif section == "Budget Prediction":
         savings = st.number_input("Enter your current savings", min_value=0.0, step=100.0)
         if income > 0 and savings > 0:
             budget = predict_budget(income, savings, budget_predictor)
-            st.success(f"Recommended budget for this month: ${budget:.2f}")
+            st.success(f"Recommended budget for this month: Rs.{budget:.2f}")
         else:
             st.info("Please enter your income and savings.")
     else:
